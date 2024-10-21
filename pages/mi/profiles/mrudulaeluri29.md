@@ -17,6 +17,14 @@ I'm a junior majoring in Computer Science at Arizona State University. I have a 
 - 🌟 Team Leadership
 - 🧠 Problem-Solving
 
+### Languages and Technologies Mostly I Use:
+- C
+- C++
+- Java
+- Python
+- Git
+
+
 | Key Details          | Information                 |
 |----------------------|-----------------------------|
 | **Name**             | Mrudula Eluri               |
