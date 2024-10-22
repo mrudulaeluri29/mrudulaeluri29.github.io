@@ -191,7 +191,7 @@ Raw.githack makes it easy to see what the page will look like if your branch is 
 
 Now follow the instructions on <a href="vi-github-pull-request.md" target="_blank">**GitHub Pull Request Tutorial**</a> to create your pull request.
 
-NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
+NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can go back up to [Step 4 of this page](vi-github-issues.md#4._Synchronize_Your_Repository) or follow the [summary section in the previous step](vi-github-and-repositories.md#Summary_of_Steps).
 
 This is an exercise to help you familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
@@ -208,6 +208,15 @@ You will need to make **at least one comment** on an issue you did **not** creat
 - [Quickstart for GitHub Issues | GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 - [FAQ - Helpful Links and Videos](vi-faq.md#Helpful_Links)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+
+## 10. Track Your Progress
+
+- Once you complete Step 6 you will have:
+  - 2 pull requests made (one at step 3 and one at step 6)
+  - 1 comment added (on an issue you didn't create)
+  - 1 issue created
+
+**Hint**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ---
 
